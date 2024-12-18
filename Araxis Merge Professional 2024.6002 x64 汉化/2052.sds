@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<desktop scan="7" scanned="20241219020255" built="20241219015741" lang="zh" pane="TLogPane" col="4" row="Dialogs.100.Text">
+  <language id="zh" autoime="0" autokeyboard="0"/>
+  <triggers>
+    <item class="TValidateTrigger" position="1"/>
+  </triggers>
+  <sheet>
+    <columns>
+      <item class="TFlagsColumn" width="38"/>
+      <item class="TPathColumn" width="271"/>
+      <item class="TTranslationStatusColumn" width="66"/>
+      <item class="TOriginalColumn" width="542"/>
+      <item class="TTranslationColumn" lang="zh" width="543"/>
+    </columns>
+    <params>
+      <findtext>902</findtext>
+      <findtext>977</findtext>
+      <findtext>977.STATIC_Encoding.Text</findtext>
+      <findtext>Encoding</findtext>
+      <findtext>&amp;Encoding</findtext>
+    </params>
+  </sheet>
+  <view node="TWindowsDialogNode" view="TFormEditor"/>
+  <path>
+    <item>All</item>
+    <item>2057.dll</item>
+  </path>
+</desktop>
